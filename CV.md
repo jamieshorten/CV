@@ -12,6 +12,12 @@
 | WPF         | Mac                    ||
 |             | Linux                  ||
 
+## Introduction
+
+I am a Dublin based Software Engineer and Scrum Master with experience building systems that operate a very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation.
+
+I am passionate about building strong teams and building great software together.
+
 ## Career
 
 ### *January 2017 to Present* - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
@@ -44,8 +50,15 @@ I completed my BENG in Computer Engineering at the End of 2013. I won the South 
 
 ### **Certified Scrum Master** - Scrum Alliance - 2018
 
+## Personal Details
+
+* **Nationality:** Irish and South African
+* **Languages:** English (Fluent), Afrikaans (Conversational)
+
 ## Find me at:
 
+* [Email: james@jamesshorten.com](mailto:james@jamesshorten.com)
+* Telephone: 083 459 4769
 * [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
 * [Twitter: @knofster](https://twitter.com/knofster)
 * [Github: jamesshorten](https://github.com/jamesshorten)
