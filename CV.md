@@ -57,8 +57,6 @@ I completed my BENG in Computer Engineering at the End of 2013. I won the South 
 
 ## Find me at:
 
-* [Email: james@jamesshorten.com](mailto:james@jamesshorten.com)
-* Telephone: 083 459 4769
 * [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
 * [Twitter: @knofster](https://twitter.com/knofster)
 * [Github: jamesshorten](https://github.com/jamesshorten)
