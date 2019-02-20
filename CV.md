@@ -18,23 +18,23 @@
 
 I delivered reports and notifications to ensure that customers will not be surprised by any changes in their usage.
 
-I assisted in moving the largest SAS email archiving service from an on premisis data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%.
+I assisted in moving the largest SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%.
 
 I worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance.
 
-I also acted as the team's scrum master and helped to drive a more agile process and interteam communication
+I also acted as the team's scrum master and helped to drive a more agile process and inter-team communication
 
 ### *January 2016 to January 2017* - **Veritas Technologies LLC Reading, UK** - Software Engineer: EV
 
-As part of the EV team I developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easilly comply with regulation and data retention requirements.
+As part of the EV team I developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easily comply with regulation and data retention requirements.
 
 Additionally I stepped in as the Scrum Master for my team ensuring that our agile process continued and improved over time.
 
 ### *January 2014 to December 2016* - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
 
-I worked on a new update system to ensure that PACS workstations accross many hospitals in the UK would always have the latest viewer software in timely manner without causing any disruption of clinical activity.
+I worked on a new update system to ensure that PACS workstations across many hospitals in the UK would always have the latest viewer software in timely manner without causing any disruption of clinical activity.
 
-I integrated the companies PACS Viewer with thier administration webpages so that radiological studies could be loaded in the desktop based viewer efficiently from the admin pages.
+I integrated the companies PACS Viewer with their administration webpages so that radiological studies could be loaded in the desktop based viewer efficiently from the admin pages.
 
 ## Education and Certifications
 
