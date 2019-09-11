@@ -1,64 +1,67 @@
 # James Shorten
 
-## *Software Developer and Scrum Master*
+## _Software Developer and Scrum Master_
 
 ## Skills
 
-|**Languages and Libraries**|**Technologies and Tools**|**Other**               |
-|-------------|------------------------|------------------------|
-| C#          | Git                    | Certified Scrum Master |
-| C/C++       | Azure                  | Strong Communication Skills|
-| ASP.net     | Windows                ||
-| WPF         | Mac                    ||
-|             | Linux                  ||
+| **Languages and Libraries** | **Technologies and Tools** | **Other**                   |
+| --------------------------- | -------------------------- | --------------------------- |
+| C#                          | Git                        | Certified Scrum Master      |
+| C/C++                       | Azure                      | Strong Communication Skills |
+| ASP.net                     | Windows                    |                             |
+| WPF                         | Mac                        |                             |
+| JavaScript                  | Linux                      |                             |
 
 ## Introduction
 
-* Dublin based Software Engineer and Scrum Master with experience building systems that operate a very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation.
+- Dublin based Software Engineer and Scrum Master with experience building systems that operate a very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation.
 
-* Passionate about building strong teams and building great software together.
+- Passionate about building strong teams and building great software together.
 
 ## Career
 
-### *January 2017 to Present* - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
+### _January 2017 to Present_ - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
 
-* Delivered reports and notifications to ensure that customers will not be surprised by any changes in their usage.
+- Delivered a portal for resellers to see information about their customers. Ensuring they understand what their usage is.
+- Delivered reports and notifications to ensure that customers will not be surprised by any changes in their usage.
 
-* Assisted in moving the largest SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%.
+- Delivered highly desired changes for customers using the E-Discovery product. This included leading the implementation of a feature to allow querying a customer's index using Lucene Query Syntax.
 
-* Worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance.
+- Assisted in moving a very large SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%.
 
-* As the team's scrum master I helped to drive a more agile process and inter-team communication
+- Worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance.
 
-### *January 2016 to January 2017* - **Veritas Technologies LLC Reading, UK** - Software Engineer: EV
+- As the team's scrum master I helped to drive a more agile process and inter-team communication
 
-* Developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easily comply with regulation and data retention requirements.
+### _January 2016 to January 2017_ - **Veritas Technologies LLC Reading, UK** - Software Engineer: EV
 
-* As the Scrum Master for my team ensuring that our agile process continued and improved over time.
+- Developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easily comply with regulation and data retention requirements.
 
-### *January 2014 to December 2016* - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
+- As the Scrum Master for my team ensuring that our agile process continued and improved over time.
 
-* Developed a new update system to ensure that PACS workstations across many hospitals in the UK would always have the latest viewer software in timely manner without causing any disruption of clinical activity.
+### _January 2014 to December 2016_ - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
 
-* Integrated the companies PACS Viewer with their administration webpages so that radiological studies could be loaded in the desktop based viewer efficiently from the admin pages.
+- Developed a new update system to ensure that PACS workstations across many hospitals in the UK would always have the latest viewer software in timely manner without causing any disruption of clinical activity.
+
+- Integrated the companies PACS Viewer with their administration webpages so that radiological studies could be loaded in the desktop based viewer efficiently from the admin pages.
 
 ## Education and Certifications
 
 ### **BENG - Computer Engineering** - University of Pretoria, Pretoria, South Africa - 2013
 
-* Completed my BENG in Computer Engineering at the End of 2013. 
-* Won the South African Institute of Electrical Engineers Final Year Project Competition as well as the University of Pretoria's Department of Electrical Electronic and Computer Engineering's Project Competition for my Final Year Project.
+- Completed my BENG in Computer Engineering at the End of 2013.
+- Won the South African Institute of Electrical Engineers Final Year Project Competition as well as the University of Pretoria's Department of Electrical Electronic and Computer Engineering's Project Competition for my Final Year Project.
 
 ### **Certified Scrum Master** - Scrum Alliance - 2018
 
 ## Personal Details
 
-* **Nationality:** Irish and South African
-* **Languages:** English (Fluent), Afrikaans (Conversational)
+- **Nationality:** Irish and South African
+- **Languages:** English (Fluent), Afrikaans (Conversational)
 
 ## Find me at:
 
-* [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
-* [Twitter: @knofster](https://twitter.com/knofster)
-* [Github: jamesshorten](https://github.com/jamesshorten)
-* [www.jamesshorten.com](www.jamesshorten.com)
+- [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
+- [Twitter: @knofster](https://twitter.com/knofster)
+- [Github: jamesshorten](https://github.com/jamesshorten)
+- [www.jamesshorten.com](www.jamesshorten.com)
