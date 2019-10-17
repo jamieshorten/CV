@@ -4,32 +4,40 @@
 
 ## Skills
 
-| **Languages and Libraries** | **Technologies and Tools** | **Other**                   |
+| **Languages and Libraries** | **Technologies and Tools** | **Other**                               |
 | --------------------------- | -------------------------- | --------------------------- |
 | C#                          | Git                        | Certified Scrum Master      |
 | C/C++                       | Azure                      | Strong Communication Skills |
 | ASP.net                     | Windows                    |                             |
 | WPF                         | Mac                        |                             |
 | JavaScript                  | Linux                      |                             |
+| Jquery                      |                            |                             |
+| SQL Server                  |                            |                             |
 
 ## Introduction
 
-- Dublin based Software Engineer and Scrum Master with experience building systems that operate a very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation.
+- Dublin based Software Engineer and Scrum Master with experience building systems that operate a very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together withe other teams in the wider organisation.
 
 - Passionate about building strong teams and building great software together.
 
 ## Career
 
-### _January 2017 to Present_ - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
+### July 2019 to Present - Veritas Technologies LLC Dublin, Ireland - Senior Software Engineer: EV.Cloud
+- Delivered parser based validation using PEG.js of search terms and queries which allows validation in real time based on semantic understanding of the query.
+- Provided Deployment assistance.
+- Analyzed Azure based Infrastructure using PowerShell to determine changes needed for an environment upgrade.
 
-- Delivered a portal for resellers to see information about their customers. Ensuring they understand what their usage is.
-- Delivered reports and notifications to ensure that customers will not be surprised by any changes in their usage.
+### _January 2017 to July 2019_ - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
 
-- Delivered highly desired changes for customers using the E-Discovery product. This included leading the implementation of a feature to allow querying a customer's index using Lucene Query Syntax.
 
-- Assisted in moving a very large SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%.
+- Delivered a portal for resellers to see information about their customers. Ensuring they understand what their usage is. A new javascript grid implementation, and backend code to aggregate the data for the table was developed.
+- Delivered reports and notifications to ensure that customers will not be surprised by any changes in their usage. A data aggreagation strategy was needed to enable these reports to be computed quicky.
 
-- Worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance.
+- Delivered highly desired changes for customers using the E-Discovery product. This included leading the implementation of a feature to allow querying a customer's index using Lucene Query Syntax. To do this a significant additions to the search backend were as necessary. A large amount of javascript bugs and missing functionality was added as part of this effort.
+
+- Assisted in moving a very large SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%. This involved analysing performance and load on machines and right-sizing them or merging roles onto a single machine.
+
+- Worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance. A custom proxy was needed to integrate the classification configuration page with the rest of the system securely.
 
 - As the team's scrum master I helped to drive a more agile process and inter-team communication
 
@@ -65,3 +73,4 @@
 - [Twitter: @knofster](https://twitter.com/knofster)
 - [Github: jamesshorten](https://github.com/jamesshorten)
 - [www.jamesshorten.com](www.jamesshorten.com)
+- +353 83 459 4769
