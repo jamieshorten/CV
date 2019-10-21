@@ -72,4 +72,5 @@
 - [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
 - [Github: jamesshorten](https://github.com/jamesshorten)
 - [www.jamesshorten.com](www.jamesshorten.com)
+- [james@jamesshorten.com](mailto:james@jamesshorten.com)
 - +353 83 459 4769
