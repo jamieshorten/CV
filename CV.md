@@ -47,7 +47,7 @@
 
 - As the Scrum Master for my team ensuring that our agile process continued and improved over time.
 
-### _January 2014 to December 2016_ - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
+### _March 2014 to December 2016_ - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
 
 - Developed a new update system to ensure that PACS workstations across many hospitals in the UK would always have the latest viewer software in timely manner without causing any disruption of clinical activity. A windows service that downloaded updates and ensured that used the same services that windows update accomplished this.
 
