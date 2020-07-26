@@ -1,6 +1,6 @@
 # James Shorten
 
-## _Software Developer and Scrum Master_
+## _Software Engineer and Scrum Master_
 
 ## Skills
 
@@ -12,6 +12,8 @@
 | WPF                         | Mac                        |                             |
 | JavaScript                  | Linux                      |                             |
 | Jquery                      |                            |                             |
+| Angular JS                  |                            |                             |
+| Typescript                  |                            |                             |
 | SQL Server                  |                            |                             |
 
 ## Introduction
@@ -22,7 +24,12 @@
 
 ## Career
 
-### July 2019 to Present - Veritas Technologies LLC Dublin, Ireland - Senior Software Engineer: EV.Cloud
+### _November 2019 to Present_ - **Spencer Stuart International, Dublin, Ireland** - Senior Software Engineer
+
+- Implemented a system to batch and control the parallel importing of external data into the company's search platform.
+- Assisted in the development of an system for importing external data into the company's search platform
+
+### _July 2019 to October 2019_ - **Veritas Technologies LLC Dublin, Ireland** - Senior Software Engineer: EV.Cloud
 
 - Delivered parser based validation - using PEG.js - of search terms and queries which allows validation in real time based on semantic understanding of the query.
 - Provided Deployment assistance.
