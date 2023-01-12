@@ -1,31 +1,39 @@
 # James Shorten
 
-## _Software Engineer and Scrum Master_
+## _Senior Software Engineer_
 
 ## Skills
 
-| **Languages and Libraries** | **Technologies and Tools** | **Other**                   |
-| --------------------------- | -------------------------- | --------------------------- |
-| C#                          | Git                        | Certified Scrum Master      |
-| C/C++                       | Azure                      | Strong Communication Skills |
-| ASP.net                     | Windows                    |                             |
-| WPF                         | Mac                        |                             |
-| JavaScript                  | Linux                      |                             |
-| Jquery                      |                            |                             |
-| Angular JS                  |                            |                             |
-| Typescript                  |                            |                             |
-| SQL Server                  |                            |                             |
+| **Languages and Libraries** | **Technologies and Tools**                      | **Other**                   |
+| --------------------------- | ----------------------------------------------- | --------------------------- |
+| C#                          | Git                                             | Strong Communication Skills |
+| SQL Server                  | AWS - Certified Solutions Architect - Associate |                             |
+| ASP.net                     | Windows                                         |                             |
+| JavaScript                  | Linux                                           |                             |
+| Angular JS                  |                                                 |                             |
+| RXJS                        |                                                 |                             |
+| NGRX                        |                                                 |                             |
+| Typescript                  |                                                 |                             |
 
 ## Introduction
 
-- Dublin based Software Engineer and Scrum Master with experience building systems that operate at very large scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation.
+- Dublin based Software Engineer with experience building systems that operate at scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation and architecting solutions for AWS.
 
-- Passionate about building strong teams and building great software together.
+- Passionate about building strong teams that building great software for people.
 
 ## Career
 
-### _November 2019 to Present_ - **Spencer Stuart International, Dublin, Ireland** - Senior Software Engineer
+### January 2023 to Present - **Spencer Stuart International, Dublin, Ireland** - Senior dotnet Developer
 
+- Currently working on delivering a new search tool incrementally to ensure good feature fit with user need.
+
+### November 2019 to December 2022 - **Spencer Stuart International, Dublin, Ireland** - dotnet Developer
+
+- Assisted with onboarding new developers.
+- Interviewed candidate developers.
+- Led the front end and middle tier development of a search tool for searching unstructured data.
+- Led the architecting of a new search tool to enable searching of unstructured data.
+- Implemented Web Components that can be used across front end frameworks (JQuery, KnockoutJS and Angular)
 - Implemented a system to batch and control the parallel importing of external data into the company's search platform.
 - Assisted in the development of an system for importing external data into the company's search platform
 
@@ -33,7 +41,7 @@
 
 - Delivered parser based validation - using PEG.js - of search terms and queries which allows validation in real time based on semantic understanding of the query.
 - Provided Deployment assistance.
-- Analyzed Azure based Infrastructure using PowerShell to determine changes needed for an environment upgrade.
+- Analysed Azure based Infrastructure using PowerShell to determine changes needed for an environment upgrade.
 
 ### _January 2018 to July 2019_ - **Veritas Technologies LLC Dublin, Ireland** - Software Engineer: EV.Cloud
 
@@ -42,7 +50,7 @@
 
 - Delivered highly desired changes for customers using the E-Discovery product. This included leading the implementation of a feature to allow querying a customer's index using Lucene Query Syntax. To do this a significant addition to the search backend were as necessary. A large number of javascript bugs were fixed and significant missing functionality was added as part of this effort.
 
-- Assisted in moving a very large SAS email archiving service from an on premiss data center to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%. This involved analysing performance and load on machines and right-sizing them or merging roles onto a single machine.
+- Assisted in moving a very large SAS email archiving service from an on premiss data centre to Azure. Once the transition was complete I assisted in reducing the costs of running the service by more than 60%. This involved analysing performance and load on machines and right-sizing them or merging roles onto a single machine.
 
 - Worked on the integration of an internal classification engine into EV.Cloud this allows the customer to search their archived content by what type of data they have and gain insight into where they might have issues with regulatory compliance. A custom proxy was needed to integrate the classification configuration page with the rest of the system securely.
 
@@ -64,10 +72,14 @@
 
 ### **BENG - Computer Engineering** - University of Pretoria, Pretoria, South Africa - 2013
 
-- Completed my BENG in Computer Engineering at the End of 2013.
+- Completed my Bachelors of Engineering in Computer Engineering at the End of 2013.
 - Won the South African Institute of Electrical Engineers Final Year Project Competition as well as the University of Pretoria's Department of Electrical Electronic and Computer Engineering's Project Competition for my Final Year Project.
 
 ### **Certified Scrum Master** - Scrum Alliance - 2018
+
+- Expired in 2020
+
+## **AWS Certified Solutions Architect - Associate** - AWS - 2022
 
 ## Personal Details
 
