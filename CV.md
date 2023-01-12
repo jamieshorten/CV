@@ -1,4 +1,4 @@
-# James Shorten
+# Jamie Shorten
 
 ## _Senior Software Engineer_
 
@@ -90,6 +90,6 @@
 
 - [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
 - [Github: jamieshorten](https://github.com/jamieshorten)
-- [www.jamesshorten.com](www.jamesshorten.com)
-- [james@jamesshorten.com](mailto:james@jamesshorten.com)
+- [www.jamieshorten.com](www.jamieshorten.com)
+- [jamie@jamieshorten.com](mailto:jamie@jamieshorten.com)
 - +353 83 459 4769
