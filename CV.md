@@ -79,7 +79,7 @@
 
 - Expired in 2020
 
-## **AWS Certified Solutions Architect - Associate** - AWS - 2022
+### **AWS Certified Solutions Architect - Associate** - AWS - 2022
 
 ## Personal Details
 
