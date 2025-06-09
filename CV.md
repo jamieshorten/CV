@@ -4,26 +4,35 @@
 
 ## Skills
 
-| **Languages and Libraries** | **Technologies and Tools**                      | **Other**                   |
-| --------------------------- | ----------------------------------------------- | --------------------------- |
-| C#                          | Git                                             | Strong Communication Skills |
-| SQL Server                  | AWS - Certified Solutions Architect - Associate |                             |
-| ASP.net                     | Windows                                         |                             |
-| JavaScript                  | Linux                                           |                             |
-| Angular JS                  |                                                 |                             |
-| RXJS                        |                                                 |                             |
-| NGRX                        |                                                 |                             |
-| Typescript                  |                                                 |                             |
+| **Languages and Libraries** | **Technologies and Tools** | **Other**                   |
+| --------------------------- | -------------------------- | --------------------------- |
+| Typescript                  | Git                        | Strong Communication Skills |
+| PostgreSQL                  | AWS                        | Data Modelling              |
+| NodeJS                      | Windows                    | Technical Leadership        |
+| JavaScript                  | Linux                      | Release Management          |
+| NestJS                      | Azure                      | Planning                    |
+| RXJS                        |                            |                             |
+| Concerto Modelling Language |                            |                             |
 
 ## Introduction
 
-- Dublin based Software Engineer with experience building systems that operate at scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation and architecting solutions for AWS.
+- Dublin based Software Engineer looking to move into management with experience building systems that operate at scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation and architecting complex systems.
 
 - Passionate about building strong teams that building great software for people.
 
 ## Career
 
 ### April 2023 to Present - **Docusign, Dublin, Ireland** - Lead Software Engineer - Data Modelling
+
+- Provided technical leadership for a team that is responsible for a tier 0 service
+- Lead the team's site reliability effort that resulted in > 99.99% availability and reliability for our tier 0 service while serving approximately 45 requests per second during peak hours.
+- Introduced a release management process along with automation tooling to ensure that risks were identified and mitigated before release.
+- Designed a response cache for the service
+- Assisted with onboarding teams at Docusign to the Concerto Modelling Language
+- Assisted with hiring and onboarding a new development team in India
+- Lead the design process for multiple new APIs in model registry service.
+- Coordinated the initial delivery of data modelling features for the integration of CLM custom fields in Navigator. This included the data modelling design and the development of a new mapping front end widget. This project involved coordination with product management and multiple engineering teams.
+- Work closely with the director of engineering on planning the team's work.
 
 ### January 2023 to April 2023 - **Spencer Stuart International, Dublin, Ireland** - Senior dotnet Developer
 
@@ -82,6 +91,8 @@
 - Expired in 2020
 
 ### **AWS Certified Solutions Architect - Associate** - AWS - 2022
+
+- Expired in 2024
 
 ## Personal Details
 
