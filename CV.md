@@ -1,6 +1,6 @@
 # Jamie Shorten
 
-## _Senior Software Engineer_
+## _Lead Software Engineer_
 
 ## Skills
 
@@ -23,9 +23,11 @@
 
 ## Career
 
-### January 2023 to Present - **Spencer Stuart International, Dublin, Ireland** - Senior dotnet Developer
+### April 2023 to Present - **Docusign, Dublin, Ireland** - Lead Software Engineer - Data Modelling
 
-- Currently working on delivering a new search tool incrementally to ensure good feature fit with user need.
+### January 2023 to April 2023 - **Spencer Stuart International, Dublin, Ireland** - Senior dotnet Developer
+
+- Delivered a new search tool incrementally to ensure good feature fit with user need.
 
 ### November 2019 to December 2022 - **Spencer Stuart International, Dublin, Ireland** - dotnet Developer
 
@@ -60,7 +62,7 @@
 
 - Developed features that ensured that customers data could be sent to different types of storage depending on the content of that data. This allowed customers to more easily comply with regulation and data retention requirements.
 
-- As the Scrum Master for my team ensuring that our agile process continued and improved over time.
+- As the Scrum Master for my team, I ensured that our agile process continued and improved over time.
 
 ### _March 2014 to December 2016_ - **Insignia Medical Systems, Basingstoke, UK** - Software Engineer
 
@@ -88,7 +90,7 @@
 
 ## Find me at
 
-- [LinkedIn: www.linkedin.com/in/jamesshorten/](https://www.linkedin.com/in/jamesshorten/)
+- [LinkedIn: www.linkedin.com/in/jamieshorten/](https://www.linkedin.com/in/jamieshorten/)
 - [Github: jamieshorten](https://github.com/jamieshorten)
 - [www.jamieshorten.com](www.jamieshorten.com)
 - [jamie@jamieshorten.com](mailto:jamie@jamieshorten.com)
