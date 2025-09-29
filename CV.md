@@ -22,7 +22,15 @@
 
 ## Career
 
-### April 2023 to Present - **Docusign, Dublin, Ireland** - Lead Software Engineer - Data Modelling
+### July 2025 to Present - **Docusign. Dublin, Ireland** - Manager: Software Engineering - Data Modelling
+
+### May 2024 to Present - **The Accord Project** - Maintainer
+
+- Reviewed contributions to the project
+- Mentored two Google Summer of Code Contributors
+- Coordinated contributions from Docusign.
+
+### April 2023 to June 2025 - **Docusign, Dublin, Ireland** - Lead Software Engineer - Data Modelling
 
 - Provided technical leadership for a team that is responsible for a tier 0 service
 - Lead the team's site reliability effort that resulted in > 99.99% availability and reliability for our tier 0 service while serving approximately 45 requests per second during peak hours.
@@ -32,7 +40,8 @@
 - Assisted with hiring and onboarding a new development team in India
 - Lead the design process for multiple new APIs in model registry service.
 - Coordinated the initial delivery of data modelling features for the integration of CLM custom fields in Navigator. This included the data modelling design and the development of a new mapping front end widget. This project involved coordination with product management and multiple engineering teams.
-- Work closely with the director of engineering on planning the team's work.
+- Coordinated the design, and rollout of a migration to PostgreSQL
+- Worked closely with the director of engineering on planning the team's work.
 
 ### January 2023 to April 2023 - **Spencer Stuart International, Dublin, Ireland** - Senior dotnet Developer
 
