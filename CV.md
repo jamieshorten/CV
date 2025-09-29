@@ -1,6 +1,6 @@
 # Jamie Shorten
 
-## _Lead Software Engineer_
+## _Software Engineering Manager_
 
 ## Skills
 
@@ -11,12 +11,12 @@
 | NodeJS                      | Windows                    | Technical Leadership        |
 | JavaScript                  | Linux                      | Release Management          |
 | NestJS                      | Azure                      | Planning                    |
-| RXJS                        |                            |                             |
+| RXJS                        |                            | Engineering Management      |
 | Concerto Modelling Language |                            |                             |
 
 ## Introduction
 
-- Dublin based Software Engineer looking to move into management with experience building systems that operate at scale while providing fine grained information to users. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation and architecting complex systems.
+- Dublin based Software Engineering Manager with experience building systems and teams that operate at scale in a global organisation. Additionally, I have experience driving Agile processes in a team and together with other teams in the wider organisation and architecting complex systems.
 
 - Passionate about building strong teams that building great software for people.
 
